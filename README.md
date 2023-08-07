@@ -126,6 +126,12 @@ sudo service nginx restart
 
 Acesse: https://meudominio.com/api/
 
+
+O certificado é emitido e tem duração de 3 meses, após isso, será necessário realizar o comando para renová-lo.
+
+```bash
+certbort renew
+```
 ## 
 
 ![App Screenshot](https://www.hardware.com.br/wp-content/uploads/static/wp/2022/07/06/blog_15418_large.jpg)
