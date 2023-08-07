@@ -130,7 +130,7 @@ Acesse: https://meudominio.com/api/
 O certificado é emitido e tem duração de 3 meses, após isso, será necessário realizar o comando para renová-lo.
 
 ```bash
-certbort renew
+certbot renew
 ```
 ## 
 
